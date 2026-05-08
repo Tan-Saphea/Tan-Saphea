@@ -16,17 +16,17 @@ I'm passionate about building real-world web applications and sharing what I lea
     />
 </a>
 
-<a href="https://www.youtube.com/channel/UCWjjXIWJw-nIS3RMcfDQjCQ">
+<!-- <a href="https://www.youtube.com/channel/UCWjjXIWJw-nIS3RMcfDQjCQ">
     <img
         alt="YouTube Views"
         title="YouTube Views"
         src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCWjjXIWJw-nIS3RMcfDQjCQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
     />
-</a>
+</a> -->
 
 <a href="https://www.facebook.com/pheasa000">
     <img
-        alt="Facebook Followers"
+        alt="Facebook Page"
         title="Follow my Facebook page"
         src="https://img.shields.io/badge/Facebook_Followers-6K+-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
     />
@@ -34,7 +34,7 @@ I'm passionate about building real-world web applications and sharing what I lea
 
 <a href="https://www.facebook.com/pheasa000">
     <img
-        alt="Facebook Views"
+        alt="Facebook Page"
         title="Facebook page views"
         src="https://img.shields.io/badge/Page_Views-900K+-0A66C2?style=for-the-badge&logo=facebook&logoColor=white"
     />
@@ -43,7 +43,7 @@ I'm passionate about building real-world web applications and sharing what I lea
 <a href="https://github.com/tansaphea?tab=followers">
     <img
         alt="Followers"
-        title="Follow me on GitHub"
+        title="GitHub"
         src="https://custom-icon-badges.demolab.com/github/followers/tansaphea?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
     />
 </a>
