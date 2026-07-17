@@ -5,14 +5,17 @@
   <a href="https://youtube.com/@KEC-KhmerEnglishClub" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:YOUR_EMAIL_HERE">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://phumcodeacademy.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Phum Code Academy Website" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Mobile+App+Creator;Tech+Educator+&+Content+Creator;Building+systems+that+scale&center=true&width=500&height=50&color=3B82F6&vCenter=true" alt="Typing SVG" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME_HERE">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Mobile+App+Creator;Tech+Educator+%26+Content+Creator;Building+Phum+Code+Academy&center=true&width=500&height=50&color=3B82F6&vCenter=true" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +23,9 @@
 
 ## 👨‍💻 About Me
 
-I enjoy creating modern, practical, and scalable applications using different technologies across the frontend, backend, and mobile development ecosystems. I'm deeply committed to **educational technology**—combining education and code to help students learn step by step.
+I enjoy creating modern, practical, and scalable applications using different technologies across the frontend, backend, and mobile development ecosystems. I'm deeply committed to **educational technology**—combining education and code to help students learn step by step. 
+
+As the creator of [Phum Code Academy](https://phumcodeacademy.vercel.app/), I aim to bridge the gap between technology and learning for young minds.
 
 - 🚀 Currently focused on building full-stack **MERN** applications and mobile apps with **Flutter**.
 - 📚 Always exploring **AI, Machine Learning,** and **Data Science**.
@@ -71,11 +76,11 @@ I enjoy creating modern, practical, and scalable applications using different te
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Tan Saphea's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tan-Saphea=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Tan Saphea's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tan-Saphea=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 ---
