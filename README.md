@@ -7,20 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/@KEC-KhmerEnglishClub" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-
-  <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
-  <a href="https://phumcodeacademy.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Website" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Tan-Saphea">
     <img 
       src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Building+Real-World+Systems;Educational+Technology+Enthusiast;Learning+and+Building+Every+Day&center=true&width=600&height=50&color=3B82F6&vCenter=true"
