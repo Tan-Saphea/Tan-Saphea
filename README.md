@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Tan Saphea</h1>
 
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-  I enjoy building practical software solutions, educational platforms, and digital systems that solve real-world problems.
+  I build practical, scalable, and reliable software solutions for education, businesses, and organizations.
 </p>
 
 <p align="center">
   <a href="https://github.com/Tan-Saphea">
     <img 
-      src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Building+Real-World+Systems;Educational+Technology+Enthusiast;Learning+and+Building+Every+Day&center=true&width=600&height=50&color=3B82F6&vCenter=true"
+      src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full-Stack+Developer;Building+Scalable+Systems;Educational+Technology+Developer;Turning+Ideas+into+Software&center=true&width=600&height=50&color=3B82F6&vCenter=true"
       alt="Typing SVG"
     />
   </a>
@@ -19,11 +19,24 @@
 
 ## About Me
 
-I'm a software developer who enjoys building practical systems and digital solutions for education, businesses, and organizations.
+I'm a **Software Engineer** passionate about designing and developing reliable, practical, and user-focused software systems.
 
-I'm especially interested in software development, educational technology, automation, database systems, and modern application development.
+I enjoy turning real-world problems into digital solutions through software engineering, system design, database development, automation, and modern web and mobile technologies.
 
-I enjoy learning through real-world projects and continuously improving my programming, problem-solving, and system design skills.
+My main interests include:
+
+- Full-Stack Software Development
+- Web Application Development
+- Mobile Application Development
+- Database Design & Management
+- REST API Development
+- System Architecture
+- Educational Technology
+- Business Management Systems
+- Automation & Digital Solutions
+- Software Testing & Maintenance
+
+I continuously improve my programming, problem-solving, software architecture, and system design skills by building real-world projects.
 
 ---
 
@@ -36,6 +49,29 @@ I enjoy learning through real-world projects and continuously improving my progr
 - Clothing Sales Management System
 - Inventory Management System
 - Educational Learning Platforms
+- Student Research & Thesis Tracking System
 - Mobile Applications
+- Business Management Systems
 
 ---
+
+## What I Do
+
+I work on software projects from **planning and database design to development, testing, deployment, and maintenance**.
+
+I focus on building systems that are:
+
+- Reliable
+- Secure
+- Scalable
+- Maintainable
+- User-Friendly
+- Performance-Focused
+
+---
+
+## Engineering Mindset
+
+> Build software that solves real problems, remains maintainable, and creates meaningful value.
+
+I believe software engineering is not only about writing code. It is about understanding problems, designing the right solution, choosing suitable technologies, and continuously improving the system.
