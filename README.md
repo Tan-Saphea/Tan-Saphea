@@ -1,77 +1,48 @@
-<h1 align="center">Hi, I'm Tan Saphea</h1>
-
-<h3 align="center">Software Engineer | Full-Stack Developer</h3>
+<h1 align="center">👋 Hi, I'm Saphea Tan</h1>
 
 <p align="center">
-  I build practical, scalable, and reliable software solutions for education, businesses, and organizations.
+  <b>Software Engineer</b> · Year IV Student · Cambodia 🇰🇭
 </p>
 
 <p align="center">
-  <a href="https://github.com/Tan-Saphea">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full-Stack+Developer;Building+Scalable+Systems;Educational+Technology+Developer;Turning+Ideas+into+Software&center=true&width=600&height=50&color=3B82F6&vCenter=true"
-      alt="Typing SVG"
-    />
-  </a>
+  I build management systems for schools and businesses,<br>
+  and I create programming tutorials in Khmer.
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCWjjXIWJw-nIS3RMcfDQjCQ"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.facebook.com/phumcodeacademy"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.tiktok.com/@tansaphea123"><img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="https://t.me/phumcode_academy"><img src="https://img.shields.io/badge/Telegram_Channel-26A5E4?logo=telegram&logoColor=white" alt="Telegram Channel"></a>
+  <a href="mailto:tansaphea667799@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-## About Me
+## Featured Projects
 
-I'm a **Software Engineer** passionate about designing and developing reliable, practical, and user-focused software systems.
-
-I enjoy turning real-world problems into digital solutions through software engineering, system design, database development, automation, and modern web and mobile technologies.
-
-My main interests include:
-
-- Full-Stack Software Development
-- Web Application Development
-- Mobile Application Development
-- Database Design & Management
-- REST API Development
-- System Architecture
-- Educational Technology
-- Business Management Systems
-- Automation & Digital Solutions
-- Software Testing & Maintenance
-
-I continuously improve my programming, problem-solving, software architecture, and system design skills by building real-world projects.
+| Project | Description | Links |
+|---|---|---|
+| **SNP Typing** | English & Khmer typing education app with lessons, timed tests, games, progress reports and an offline Windows desktop mode. | [Repo](https://github.com/Tan-Saphea/snp-typing) |
+| **SNP International School Website** | Bilingual (English/Khmer) school website with programs, tuition fee calculator, campuses and news. | [Live](https://frontend-snp-website.vercel.app/en) |
+| **PhumCode Academy** | Programming learning platform with lessons, real-world projects and free resources. | [Live](https://phumcodeacademy.vercel.app/) |
+| **LuxeMart** | E-commerce web storefront. | [Live](https://e-commerce-six-ivory-15.vercel.app/) |
+| **Expense Tracker** | Web app for tracking spending. | [Live](https://frontend-expense-tracker-chi.vercel.app/login) |
 
 ---
 
-## Current Projects
+## Khmer Programming Content
 
-- School Management System
-- School Website & Content Management System
-- QR Code Attendance System
-- Telegram Attendance Bot
-- Clothing Sales Management System
-- Inventory Management System
-- Educational Learning Platforms
-- Student Research & Thesis Tracking System
-- Mobile Applications
-- Business Management Systems
+I teach programming in Khmer through **PhumCode Academy**.
+
+- ▶️ [YouTube](https://www.youtube.com/channel/UCWjjXIWJw-nIS3RMcfDQjCQ)
+- 📘 [Facebook Page](https://www.facebook.com/phumcodeacademy)
+- 🎵 [TikTok](https://www.tiktok.com/@tansaphea123)
+- ✈️ [Telegram Channel](https://t.me/phumcode_academy)
 
 ---
 
-## What I Do
+## Contact
 
-I work on software projects from **planning and database design to development, testing, deployment, and maintenance**.
-
-I focus on building systems that are:
-
-- Reliable
-- Secure
-- Scalable
-- Maintainable
-- User-Friendly
-- Performance-Focused
-
----
-
-## Engineering Mindset
-
-> Build software that solves real problems, remains maintainable, and creates meaningful value.
-
-I believe software engineering is not only about writing code. It is about understanding problems, designing the right solution, choosing suitable technologies, and continuously improving the system.
+- 📧 Email: [tansaphea667799@gmail.com](mailto:tansaphea667799@gmail.com)
+- 💬 Telegram: [@tansaphea09](https://t.me/tansaphea09)
