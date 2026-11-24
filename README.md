@@ -31,14 +31,20 @@
 
 ---
 
+## Featured In
+
+- **Technology Cambodia**: [Founder of PhumCode Academy turns a hometown dream into a digital village for rural children](https://tech-cambodia.com/articles/founder-of-phumcode-academy-) (in Khmer, July 2026)
+
+---
+
 ## Khmer Programming Content
 
 I teach programming in Khmer through **PhumCode Academy**.
 
-- ▶️ [YouTube](https://www.youtube.com/channel/UCWjjXIWJw-nIS3RMcfDQjCQ)
-- 📘 [Facebook Page](https://www.facebook.com/phumcodeacademy)
-- 🎵 [TikTok](https://www.tiktok.com/@tansaphea123)
-- ✈️ [Telegram Channel](https://t.me/phumcode_academy)
+- [YouTube](https://www.youtube.com/channel/UCWjjXIWJw-nIS3RMcfDQjCQ)
+- [Facebook Page](https://www.facebook.com/phumcodeacademy)
+- [TikTok](https://www.tiktok.com/@tansaphea123)
+- [Telegram Channel](https://t.me/phumcode_academy)
 
 ---
 
